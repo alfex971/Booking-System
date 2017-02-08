@@ -1,0 +1,2 @@
+C:\Users\Cristian Patras\Desktop\Booking System(Computer Warriors)\Booking System(Computer Warriors)\BookingSystem(All)\BookingSystem\BookingSystem.csproj;x86
+C:\Users\Cristian Patras\Desktop\Booking System(Computer Warriors)\Booking System(Computer Warriors)\BookingSystem(All)\UnitTestProject3\UnitTestProject3.csproj;x86
